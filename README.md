@@ -1,5 +1,7 @@
 # People Analytics: Understanding Employee Attrition and Improving Employee Experience
 
+This project demonstrates an end-to-end People Analytics workflow using Google BigQuery, Python, and Tableau to explore the factors associated with employee attrition and translate analytical findings into actionable HR recommendations.
+
 ## Business Question
 How can HR or People Teams reduce employee attrition and improve employee experience using data?
 
