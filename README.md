@@ -1,9 +1,7 @@
-# IBM HR Analytics: Predicting Training ROI & Reskilling Success
+# People Analytics: Understanding Employee Attrition and Improving Employee Experience
 
 ## Business Question
-Which employees are most likely to benefit from reskilling programs? 
-Can we predict who will successfully transition to new roles based on their 
-training engagement and performance history?
+How can HR or People Teams reduce employee attrition and improve employee experience using data?
 
 ## Why This Matters
 Today, companies invest $5K–$15K per employee in reskilling. Most fail to track 
