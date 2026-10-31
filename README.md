@@ -82,4 +82,4 @@ Employee attrition is one of the most expensive workforce challenges. Beyond rec
 **Days 8–10**
 - GitHub documentation
 - Business recommendations
-- LinkedIn article
+- LinkedIn article (In progress)
